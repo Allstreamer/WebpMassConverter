@@ -1,4 +1,5 @@
 # WebpMassConverter
+[![Github All Releases](https://img.shields.io/github/downloads/Allstreamer/WebpMassConverter/total.svg)]() <br>
 A gui tool to concert webp Format images to .png
 
 ## Usage
