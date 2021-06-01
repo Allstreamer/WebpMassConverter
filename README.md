@@ -15,4 +15,4 @@ A gui tool to concert webp Format images to .png
 
 - [x] Conversion
 - [ ] choosing format
-- [ ] ui redesing
+- [ ] ui redesign
