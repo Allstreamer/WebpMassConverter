@@ -12,6 +12,6 @@ A gui tool to concert webp Format images to .png
 
 ## Features/ Upcoming
 
-[x] Conversion
-[ ] choosing format
-[ ] ui redesing
+- [x] Conversion
+- [ ] choosing format
+- [ ] ui redesing
